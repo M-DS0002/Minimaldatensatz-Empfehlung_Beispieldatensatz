@@ -185,7 +185,7 @@
 			<lido:recordSource>
 				<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">https://ld.zdb-services.de/resource/organisations/DE-MUS-059918</lido:legalBodyID>
 				<lido:legalBodyName>
-					<lido:appellationValue>Museum für Kunst und Gewerbe Hamburg</lido:appellationValue>
+					<lido:appellationValue>Museum für Kunst und Gewerbe</lido:appellationValue>
 				</lido:legalBodyName>
 			</lido:recordSource>
 			<lido:recordSource lido:type="dataProvider">
@@ -221,6 +221,12 @@
 						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term>CC0 1.0</lido:term>
 					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">https://ld.zdb-services.de/resource/organisations/DE-MUS-059918</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue xml:lang="de">Museum für Kunst und Gewerbe</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
 				</lido:rightsResource>
 			</lido:resourceSet>
 			<lido:resourceSet lido:sortorder="2">
@@ -236,6 +242,12 @@
 						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term>CC0 1.0</lido:term>
 					</lido:rightsType>
+					<lido:rightsHolder>
+						<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">https://ld.zdb-services.de/resource/organisations/DE-MUS-059918</lido:legalBodyID>
+						<lido:legalBodyName>
+							<lido:appellationValue xml:lang="de">Museum für Kunst und Gewerbe</lido:appellationValue>
+						</lido:legalBodyName>
+					</lido:rightsHolder>
 				</lido:rightsResource>
 			</lido:resourceSet>
 			<lido:resourceSet lido:sortorder="3">
@@ -252,6 +264,12 @@
 						<lido:term>CC0 1.0</lido:term>
 					</lido:rightsType>
 				</lido:rightsResource>
+				<lido:rightsHolder>
+					<lido:legalBodyID lido:type="http://terminology.lido-schema.org/lido00099">https://ld.zdb-services.de/resource/organisations/DE-MUS-059918</lido:legalBodyID>
+					<lido:legalBodyName>
+						<lido:appellationValue xml:lang="de">Museum für Kunst und Gewerbe</lido:appellationValue>
+					</lido:legalBodyName>
+				</lido:rightsHolder>
 			</lido:resourceSet>
 		</lido:resourceWrap>
 	</lido:administrativeMetadata>
