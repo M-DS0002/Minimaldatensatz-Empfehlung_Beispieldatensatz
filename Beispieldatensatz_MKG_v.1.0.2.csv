@@ -1,0 +1,118 @@
+Datenfeldname im Minimaldatensatz;Verpflichtungsgrad ;Feldinhalt Beispieldatensatz;Ausprägung in LIDO
+DATENFELDER ERFASSUNG;;;
+Objekttitel oder -benennung;Pflicht;;<titleWrap>
+Text;;Kabinettschrank, Inv. Nr.: 1977.20;<titleSet> / <appellationValue>
+Objekttyp;Pflicht;;<objectWorkTypeWrap>
+URI [AAT];;http://vocab.getty.edu/aat/300038888;<objectWorkType> / <conceptID
+Text, deutsch;;Kabinettschrank;"<objectWorkType> / <term xml:lang=""de"">"
+Text, englisch;;cabinets (case furniture);"<objectWorkType> / <term xml:lang=""en"">"
+Klassifikation;Empfehlung;;<classificationWrap>
+Objektgattung;;;"<classification lido:type=""http://terminology.lido-schema.org/lido00853"">"
+URI [OBG];;https://d-nb.info/gnd/4039860-2;<classification> / <conceptID>
+URI [Hessische Systematik];;https://term.museum-digital.de/hesys/tag/275;<classification> / <conceptID>
+Text;;Möbel;<classification> / <term>
+Inventarnummer;Pflicht;1977.20;"<workID lido:type=""http://terminology.lido-schema.org/lido00113"">"
+Objektbeschreibung;Empfehlung ;;<objectDescriptionWrap>
+Text;;Die große Welt im kleinen Schrank: Die Fassadenarchitektur des Kabinettschranks findet ihr Vorbild im antiken Theaterbau. Mit seinem ausgeklügelten System von Fächern und Schubladen diente er zur Aufbewahrung von gesammelten Kostbarkeiten der Kunstkammer. Über seine Bestimmung zum funktionalen Möbel hinaus ist der Schrank selbst auch als Kunstwerk zu verstehen. Die Elfenbeintafeln zeigen ein umfangreiches Bildprogramm: die Gründer der vier großen Weltreiche des Altertums und die Taten des tugendhaften antiken Helden Herkules. Die ausziehbare Schreibplatte enthält eine drehbare Weltkarte, die auf die Habsburger verweist und vermuten lässt, dass das Kabinettmöbel für König Phillipp II. von Spanien angefertigt worden ist.;<objectDescriptionSet>/<descriptiveNoteValue>
+Material;Empfehlung;;"<eventMaterialsTech> / <termMaterialsTech lido:type=""http://terminology.lido-schema.org/lido00132"">"
+URI [AAT] (1);;http://vocab.getty.edu/aat/300375333;<termMaterialsTech> / <conceptID>
+Text (1);;Palisander;<termMaterialsTech> / <term>
+URI [Wikidata] (2);;http://www.wikidata.org/entity/Q156005;<termMaterialsTech> / <conceptID>
+Text (2);;Ebenholz;<termMaterialsTech> / <term>
+URI [AAT] (3);;http://vocab.getty.edu/aat/300011857;<termMaterialsTech> / <conceptID>
+Text (3);;Elfenbein (Material);<termMaterialsTech> / <term>
+Technik;Empfehlung;;"<eventMaterialsTech> / <termMaterialsTech lido:type=""http://terminology.lido-schema.org/lido00131"">"
+URI [GND];;https://d-nb.info/gnd/4191438-7;<termMaterialsTech> / <conceptID>
+Text;;Gravierung;<termMaterialsTech> / <term>
+Maße;Empfehlung;;<objectMeasurementsWrap>/<objectMeasurementsSet>
+Standardisierte Ansetzung;;;<objectMeasurements>/<measurementsSet>
+Maßtyp;;Höhe;<measurementType>
+Maßeinheit;;cm;<measurementUnit>
+Maßwert;;106;<measurementValue>
+Standardisierte Ansetzung;;;<objectMeasurements>/<measurementsSet>
+Maßtyp;;Breite;<measurementType>
+Maßeinheit;;cm;<measurementValue>
+Maßwert;;101,1;<measurementUnit>
+Standardisierte Ansetzung;;;<objectMeasurements>/<measurementsSet>
+Maßtyp;;Tiefe;<measurementType>
+Maßeinheit;;cm;<measurementValue>
+Maßwert;;60,9;<measurementUnit>
+Anzeige;;;<objectMeasurementsSet>
+Text;;Breite: 190 cm (geöffnet);<displayObjectMeasurements>
+Standardisierte Ansetzung;;;<objectMeasurements>/<measurementsSet>
+Maßtyp;;Breite;<measurementType>
+Maßeinheit;;cm ;<measurementValue>
+Maßwert;;190;<measurementUnit>
+Ereignis in der Objektgeschichte (Feldgruppe);Pflicht;;<eventWrap>
+Ereignistyp;Pflicht;;<eventSet> / <event> / <eventType>
+URI;;http://terminology.lido-schema.org/lido00007;<conceptID>
+Text, deutsch;;Herstellung;"<term xml:lang=""de"">"
+Text, englisch;;Production;"<term xml:lang=""en"">"
+Person/Körperschaft;mind. ein Wer, Wann oder Wo;;<eventActor>
+Personenname (1);;;<actor>
+URI [GND];;https://d-nb.info/gnd/1229708928;<actorID>
+Text;;Fiammingo, Giacomo;<nameActorSet> / <appellationValue>
+Rolle/Funktion (1);;;<roleActor>
+Text;;Künstler;<roleActor> / <term>
+Personenname (2);;;<actor>
+URI [GND];;https://d-nb.info/gnd/161108342;<actorID>
+Text;;Curtis, Giovanni Battista de;<nameActorSet> / <appellationValue>
+Rolle/Funktion (2);;;<roleActor>
+Text;;Graveur;<roleActor> / <term>
+Personenname (3);;;<actor>
+URI [VIAF];;http://viaf.org/viaf/89840489;<actorID>
+Text;;Picicaro, Januarius;<nameActorSet> / <appellationValue>
+Rolle/Funktion (3);;;<roleActor>
+Text;;Graveur;<roleActor> / <term>
+Datierung;mind. ein Wer, Wann oder Wo;;<eventDate>
+Verbale Angabe;;um 1600;<displayDate>
+Standardisierte Ansetzung;;;<eventDate> / <date>
+Frühestes mögliches Datum;;1596;<earliestDate>
+Spätestes mögliches Datum;;1605;<latestDate>
+Ort;mind. ein Wer, Wann oder Wo;;<eventPlace>
+URI, Geonames;;https://sws.geonames.org/3172394/;<placeID>
+Text;;Neapel;<namePlaceSet> / <appellationValue>
+Inhaltsschlagwort;Empfehlung;;<subjectSet> /<subject> / <subjectConcept>
+URI, Iconclass;;https://iconclass.org/94L;<conceptID>
+Text;;Geschichte von Hercules (Herakles);<term>
+Mediendatei (Feldgruppe);Pflicht;;<resourceWrap>
+Link zur Mediendatei;Pflicht;;"<resourceSet> / <resourceRepresentation lido:type=""http://terminology.lido-schema.org/lido00464"">"
+URL (1);;http://resources.digicult-museen.net/dam/provided_image/m5ea54539bef06;"<linkResource lido:formatResource=""image/jpeg"">"
+URL (2);;http://resources.digicult-museen.net/dam/provided_image/m5ea5453a0926f;"<linkResource lido:formatResource=""image/jpeg"">"
+URL (3);;http://resources.digicult-museen.net/dam/provided_image/m5ea5453a433bb;"<linkResource lido:formatResource=""image/jpeg"">"
+Nutzungsrechte Mediendatei;Pflicht;;<rightsResource>
+URI (1 - 3);;http://creativecommons.org/publicdomain/zero/1.0/;<rightsType> / <conceptID>
+Text (1 - 3);;CC0 1.0 Universell;<rightsType> / <term>
+Rechtewahrnehmung Mediendatei;Pflicht (wenn nicht gemeinfrei);;<rightsHolder>
+URI (1 - 3);;https://ld.zdb-services.de/resource/organisations/DE-MUS-059918;<legalBodyID>
+Text (1 - 3);;Museum für Kunst und Gewerbe;<legalBodyName> / <appellationValue>
+Alternativtext;Empfehlung;;
+Text (1);;Blick in geöffneten Kabinettschrank mit dunkelbrauner und weißer Fassadenarchitektur aus Ebenholz und Elfenbein im Inneren des Schrankes und der beiden Türen;<resourceDescription>
+Text (2);;Detailansicht eines Kabinettschranks mit gravierter Elfenbeinplakette mit Abbildung des Romulus in Rom;<resourceDescription>
+Text (3);;Detailansicht eines Kabinettschranks mit Fassadenarchitektur einschließlich Säulen, Atlanten und weiterer gravierter Bauelemente aus Elfenbein auf Ebenholzkonstruktion;<resourceDescription>
+DATENFELDER EXPORT;;;
+ID Datensatz;Pflicht;DE-MUS-059918/dc00018494;<lidoRecID>
+lokaler Identifikator;;dc00018494;<recordID>
+Sprache des Datensatzes;Pflicht;de;xml:lang (Attribut!)
+Datensatzart;Pflicht;;<recordType>
+URI;;http://terminology.lido-schema.org/lido00141;<conceptID>
+Text, deutsch;;Einzelobjekt (Katalogisierungsebene);"<term xml:lang=""de"">"
+Text, englisch;;item-level record;"<term xml:lang=""en"">"
+Verwahrende Einrichtung;Pflicht;;"<lido:repositoryName lido:type=""http://terminology.lido-schema.org/lido00475""> "
+URI, ISIL;;http://ld.zdb-services.de/resource/organisations/DE-MUS-059918;<legalBodyID>
+Text;;Museum für Kunst und Gewerbe;<legalBodyName> / <appellationValue>
+Datensatzerstellende Einrichtung;Pflicht;;<recordSource>
+URI, ISIL;;https://ld.zdb-services.de/resource/organisations/DE-MUS-059918;<legalBodyID>
+Text;;Museum für Kunst und Gewerbe;<legalBodyName> / <appellationValue>
+Aggregator;;;"<recordSource lido:type=""dataProvider"">"
+URI, ISIL;;https://d-nb.info/gnd/16329731-9;<legalBodyID>
+Text;;digiCULT-Verbund eG;<legalBodyName> / <appellationValue>
+Mediendatei: Medientyp;Pflicht;;<resourceType>
+Text (1 - 3);;Bild;<term>
+Nutzungsrechte Metadaten;Pflicht;;<recordRights>
+URI;;http://creativecommons.org/publicdomain/zero/1.0/ ;<rightsType> / <conceptID>
+Text;;CC0 1.0 Universell;<rightsType> / <term>
+Link zum veröffentlichten Metadatensatz;Empfehlung ;;<recordInfoSet>
+URL;;http://sammlungonline.mkg-hamburg.de/de/object/Kabinettschrank/1977.20/dc00018494;<recordInfoLink>
+Datierung des Datensatzes;Empfehlung ;;"<recordInfoSet lido:type=""http://terminology.lido-schema.org/lido00470"">"
+Datumsformat;;2021-01-30T15:44:49+01:00;"<recordMetadataDate lido:type=""http://terminology.lido-schema.org/lido00472"">"
