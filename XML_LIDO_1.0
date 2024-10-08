@@ -196,7 +196,7 @@
 			</lido:recordSource>
 			<lido:recordRights>
 				<lido:rightsType>
-					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+					<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 					<lido:term>CC0 1.0 Universell</lido:term>
 				</lido:rightsType>
 			</lido:recordRights>
@@ -218,7 +218,7 @@
 				<lido:resourceDescription lido:type="https://www.wikidata.org/entity/P11265">Blick in geöffneten Kabinettschrank mit dunkelbrauner und weißer Fassadenarchitektur aus Ebenholz und Elfenbein im Inneren des Schrankes und der beiden Türen</lido:resourceDescription>
 				<lido:rightsResource>
 					<lido:rightsType>
-						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term>CC0 1.0</lido:term>
 					</lido:rightsType>
 					<lido:rightsHolder>
@@ -239,7 +239,7 @@
 				<lido:resourceDescription lido:type="https://www.wikidata.org/entity/P11265">Detailansicht eines Kabinettschranks mit gravierter Elfenbeinplakette mit Abbildung des Romulus in Rom</lido:resourceDescription>
 				<lido:rightsResource>
 					<lido:rightsType>
-						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term>CC0 1.0</lido:term>
 					</lido:rightsType>
 					<lido:rightsHolder>
@@ -260,7 +260,7 @@
 				<lido:resourceDescription lido:type="https://www.wikidata.org/entity/P11265">Detailansicht eines Kabinettschranks mit Fassadenarchitektur einschließlich Säulen, Atlanten und weiterer gravierter Bauelemente aus Elfenbein auf Ebenholzkonstruktion</lido:resourceDescription>
 				<lido:rightsResource>
 					<lido:rightsType>
-						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">http://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
+						<lido:conceptID lido:type="http://terminology.lido-schema.org/lido00099">https://creativecommons.org/publicdomain/zero/1.0/</lido:conceptID>
 						<lido:term>CC0 1.0</lido:term>
 					</lido:rightsType>
 				</lido:rightsResource>
